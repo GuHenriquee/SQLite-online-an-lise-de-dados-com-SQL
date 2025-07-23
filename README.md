@@ -1,6 +1,6 @@
-# SQLite-online-an-lise-de-dados-com-SQL
+# SQLite-online-an-lise-de-dados-com-SQL Exercícios
 Curso da alura SQLite online: análise de dados com SQL na formação Conhecendo SQL 
-Exercícios
+
 01 - Qual é o número de Clientes que existem na base de dados ?
 
 ```sql
